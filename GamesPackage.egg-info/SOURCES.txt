@@ -1,0 +1,10 @@
+setup.py
+GamesPackage/CowsAndBull.py
+GamesPackage/__init__.py
+GamesPackage/numGuess.py
+GamesPackage/rockpapersci.py
+GamesPackage/ticTacToe.py
+GamesPackage.egg-info/PKG-INFO
+GamesPackage.egg-info/SOURCES.txt
+GamesPackage.egg-info/dependency_links.txt
+GamesPackage.egg-info/top_level.txt
